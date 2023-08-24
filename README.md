@@ -8,8 +8,8 @@
 
 <img src="./assets/images/que_icon.svg" style="width: 150px">
 
-<h2 align="center">Memory Card Ga v.1.0</h2>
-Built a Memory Card ga using JavaScript.
+<h2 align="center">Memory Card Game v.1.0</h2>
+Built a Memory Card game using JavaScript.
 
 <a href="https://memorycard-game-v1-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
 
@@ -17,9 +17,9 @@ Built a Memory Card ga using JavaScript.
 
 <br />
 
-### What I Learn
+### 🤷🏻‍♂️ What I Learn
 
-#### Explain Ga Logic step by step:
+#### 🌟 Explain Game Logic step by step:
 
 1. **Selecting Elements**: The code starts by selecting all HTML elements with the class name "card" using the `document.querySelectorAll(".card")` method. It assigns these elements to the `cards` constant.
 
