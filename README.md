@@ -9,7 +9,7 @@
 <img src="./assets/images/que_icon.svg" style="width: 120px">
 
 <h2 align="center">Memory Card Game v.1.0</h2>
-Built a Memory Card game using JavaScript.
+Built a Memory Card game using JavaScript.Built a Memory Card game using HTML5, CSS3 and JavaScript. Used CSS Animation and also used Array sort method to sort the images.
 
 <a href="https://memorycard-game-v1-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
 
