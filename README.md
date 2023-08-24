@@ -11,7 +11,7 @@
 <h2 align="center">Memory Card Ga v.1.0</h2>
 Built a Memory Card ga using JavaScript.
 
-<a href=""><strong>➥ Play Now</strong></a>
+<a href="https://memorycard-game-v1-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
 
 </div>
 
