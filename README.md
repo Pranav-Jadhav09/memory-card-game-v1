@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<img src="./assets/images/que_icon.svg" style="width: 150px">
+<img src="./assets/images/que_icon.svg" style="width: 120px">
 
 <h2 align="center">Memory Card Game v.1.0</h2>
 Built a Memory Card game using JavaScript.
